@@ -1,4 +1,4 @@
-# webscrapper project
+# Webscrapper Python Project 
 The main idea is to pass a list of url to a website and to 
 
 We will provide a list of URL as the example attached in the CSV. The scraper should go to the website and extract specific information listed above (with the same approach of changing user agent and sleeping at every request).
